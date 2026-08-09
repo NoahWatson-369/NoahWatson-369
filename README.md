@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align=center>
+  <img src="https://github.com/NoahWatson-369/NoahWatson-369/blob/main/HIM.gif?raw=true?raw=true" width=300px>
+  <br>
 
-<!--
-**NoahWatson-369/NoahWatson-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://hitscounter.dev/api/hit?url=https://github.com/NoahWatson-369&label=Visitors&icon=github&color=%23a370f7&style=flat"/>
+  <br>
 
-Here are some ideas to get you started:
+  <img src="https://skillicons.dev/icons?i=js,py,cpp">
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=NoahWatson-369&data=followers,repositories,stars&theme=darkmode" width=500>
+  <br>
+  
+   <a href="https://t.me/justme_and_scripts">
+   <img src="https://img.shields.io/badge/Telegram-@justme_and_scripts-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
